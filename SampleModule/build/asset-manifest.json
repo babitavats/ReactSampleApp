@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ebc242ab.css",
+    "main.js": "./static/js/main.ff49ca8d.js",
+    "static/js/453.40c73b04.chunk.js": "./static/js/453.40c73b04.chunk.js",
+    "static/media/PEOLlogo.jpg": "./static/media/PEOLlogo.fcca2bf10bf075891abc.jpg",
+    "index.html": "./index.html",
+    "main.ebc242ab.css.map": "./static/css/main.ebc242ab.css.map",
+    "main.ff49ca8d.js.map": "./static/js/main.ff49ca8d.js.map",
+    "453.40c73b04.chunk.js.map": "./static/js/453.40c73b04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc242ab.css",
+    "static/js/main.ff49ca8d.js"
+  ]
+}

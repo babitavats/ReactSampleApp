@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@sap/approuter": "14.4.2",
+    "@sap/html5-repo-mock": "2.1.5"
+  },
+  "scripts": {
+    "build-SampleModule": "cd SampleModule && if [ ! -d ${workspaceFolder}/ReactSampleApp/SampleModule/node_modules/react-scripts ] && [ ! -d ${workspaceFolder}/ReactSampleApp/node_modules/react-scripts ]; then npm i; fi && npm run build"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.26.2",
+    "@cap-js/hana": "^1"
+  },
+  "cds": {
+    "requires": {
+      "db":"hana"
+    }
+  }
+}
